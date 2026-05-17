@@ -1,0 +1,71 @@
+BİDUA – GİZLİLİK POLİTİKASI
+
+Yürürlük Tarihi: 11/03/2026
+
+Bidua ("Uygulama") olarak kullanıcılarımızın gizliliğine değer verir ve saygı duyarız. Bu Gizlilik Politikası hangi bilgileri topladığımızı, nasıl kullandığımızı ve nasıl korunduğunu açıklar.
+
+1. Topladığımız Bilgiler
+Bidua, kullanıcıların Uygulamaya giriş yapabilmesi için gerekli en az bilgileri toplar. Bunlar:
+- Google ile girişte temel hesap bilgileri (ad, e-posta)
+- Facebook ile girişte temel hesap bilgileri (ad, e-posta)
+- Namaz vakitleri ve kıble özelliklerinin çalışabilmesi için kullanıcı izin verdiğinde cihaz konumu
+
+Uygulama başka herhangi bir kişisel veriyi talep etmez veya toplamaz.
+
+2. ERİŞMEDİĞİMİZ Bilgiler
+Bidua aşağıdakilere erişim istemez:
+- Kişiler
+- Fotoğraf veya dosya depolama
+- Kamera veya mikrofon
+- Diğer cihaz verileri veya sensörler
+
+3. Bilgileri Nasıl Kullanıyoruz
+Toplanan sınırlı bilgiler yalnızca şu amaçlarla kullanılır:
+- Hesap bilgileri (ad, e-posta): Kullanıcı hesabının oluşturulması ve yönetimi
+- Kimlik doğrulama verileri (Supabase Authentication): Oturum güvenliğinin sağlanması
+- Satın alma ve abonelik verileri (ürün kimliği, abonelik durumu, süre): Premium üyelik doğrulama ve hak yönetimi
+- Kullanım ve kota verileri (aylık kullanım hakları): Hizmet sınırlarının uygulanması ve Premium yönetimi
+
+Bidua, bu verileri reklam, pazarlama veya üçüncü taraflarla paylaşım amacıyla kullanmaz.
+
+4. Üçüncü Taraf Hizmetleri
+Uygulama, kullanıcı girişi için Supabase Authentication kullanabilir. Supabase'nin gizlilik uygulamaları Supabase'nin Kendi Gizlilik Politikası ile düzenlenir.
+
+5. Çerezler ve Takip
+Bidua çerezler, takip ediciler veya cihaz tabanlı takip teknolojileri kullanmaz.
+
+6. Veri Güvenliği
+Kullanıcı verilerinin güvenliğini ve gizliliğini sağlamak için uygun teknik ve idari önlemler alırız.
+
+7. Hesap Silme
+Kullanıcılar hesaplarını Uygulama içinden veya destek adresimize yazarak silebilir. Silindikten sonra tüm kullanıcı verileri sistemimizden kalıcı olarak kaldırılır ve geri yüklenemez.
+
+8. Konum Verisi ve Varsayılan Adres
+Bidua, bazı özelliklerin çalışabilmesi için kullanıcıdan konum izni isteyebilir.
+
+Konum verisi aşağıdaki amaçlarla kullanılabilir:
+
+Kıble yönünün hesaplanması
+
+Namaz vakitlerinin doğru şekilde belirlenmesi
+
+Kullanıcı izin verdiğinde cihazın tam ve yaklaşık konumu alınabilir. Bu konum bilgisi:
+
+Namaz vakitleri ve kıble hesaplamaları için kullanılabilir
+
+Supabase altyapısında kullanıcıya ait hesapla ilişkili olarak saklanabilir
+
+Uygulamanın daha hızlı çalışabilmesi için cihaz üzerinde yerel önbellekte (cache) tutulabilir
+
+Konum verileri hiçbir şekilde reklam, pazarlama veya üçüncü taraflara satılma amacıyla kullanılmaz. Bidua, kullanıcı konum verilerini yalnızca uygulamanın temel işlevlerini sağlamak amacıyla işler ve üçüncü taraflarla ticari amaçlarla paylaşmaz.
+
+Kullanıcılar diledikleri zaman cihaz ayarlarından konum iznini devre dışı bırakabilir. Bu durumda konuma bağlı bazı özellikler (kıble pusulası ve otomatik namaz vakti hesaplama gibi) düzgün çalışmayabilir.
+
+Alternatif olarak kullanıcılar konum izni vermek zorunda değildir. Konum izni yerine uygulama içinde bulunan şehir seçme özelliğini kullanarak şehirlerini manuel olarak belirleyebilirler. Bu durumda namaz vakitleri ve ilgili hesaplamalar seçilen şehir bilgisine göre yapılır.
+
+9. Bu Politikanın Değişiklikleri
+Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Güncellenen sürüm Uygulama içinde yayımlandığı anda yürürlüğe girer.
+
+10. İletişim
+Verilerinizle ilgili sorularınız veya talepleriniz varsa bizimle iletişime geçin:
+E-posta: info@bidua.tr
